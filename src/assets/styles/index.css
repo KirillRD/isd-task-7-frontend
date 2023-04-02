@@ -1,0 +1,9 @@
+@import "game-entry.css";
+@import "game.css";
+@import "game-header.css";
+@import "tic-tac-toe.css";
+@import "four-in-row.css";
+
+* {
+  font-family: 'Shantell Sans', cursive;
+}
